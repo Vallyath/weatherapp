@@ -32,7 +32,7 @@ SECRET_KEY = 'jf5t4r5g=d&yz4u83ls%y-5!re3=ffg^gl$9hfcji=vk@og5pm'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['glacial-garden-18947.herokuapp.com','127.0.0.1']
+ALLOWED_HOSTS = ['glacial-garden-18947.herokuapp.com','127.0.0.1','danielPeng-17.github.io/react-weather-app']
 
 
 # Application definition
